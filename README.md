@@ -39,13 +39,9 @@ Here are some ideas to get you started:
 	<tr>
 </table>
 </div>
-<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crswd38&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crswd38&layout=compact)
-</div>
-<div align="center">
 ![trophy](https://github-profile-trophy.vercel.app/?username=Crswd38&theme=monokai)
-</div>
 
 <!--
 - 🔭 I’m currently working on ...
