@@ -1,4 +1,21 @@
-### Hi there 👋
+<div align="center">
+	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crswd38&layout=compact)
+</div>
+
+
+<div align="center">
+	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crswd38&show_icons=true&theme=radical)
+</div>
+
+
+<div align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=crossward38)](https://solved.ac/profile/crossward38)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pycrswd38)](https://solved.ac/profile/pycrswd38)
+</div>
+
 
 <div align="center">
 <table>
@@ -34,23 +51,14 @@
 	<tr>
 </table>
 </div>
-<div align="center">
-	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crswd38&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crswd38&layout=compact)
 
-</div>
-<div align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=crossward38)](https://solved.ac/profile/crossward38)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pycrswd38)](https://solved.ac/profile/pycrswd38)
-
-</div>
 <div align="center">
 	
 ![trophy](https://github-profile-trophy.vercel.app/?username=Crswd38&theme=monokai)
-
 </div>
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
