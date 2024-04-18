@@ -36,12 +36,17 @@ Here are some ideas to get you started:
 		<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/></code></td>
 		<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183892787-bca94a0e-ffcb-4eeb-8137-e0fc4e446c25.png" alt="Groovy" title="Groovy"/></code></td>
 	</tr>
+	<tr>
+		<td colspan='7'>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crswd38&show_icons=true&theme=radical)
+		![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crswd38&layout=compact)</td>
+	</tr>
+	<tr>
+		<td colspan='7'>[![trophy](https://github-profile-trophy.vercel.app/?username=Crswd38&theme=monokai)]</td>
+	</tr>
 </table>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crswd38&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crswd38&layout=compact)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Crswd38&theme=monokai)]
+
 
 <!--
 - 🔭 I’m currently working on ...
