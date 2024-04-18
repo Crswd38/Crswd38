@@ -1,12 +1,12 @@
 <div align="center">
 	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crswd38&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crswd38&layout=compact)](https://github.com/Crswd38)
 </div>
 
 
 <div align="center">
 	
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crswd38&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crswd38&show_icons=true&theme=radical)](https://github.com/Crswd38)
 </div>
 
 
@@ -17,6 +17,7 @@
 </div>
 
 
+<a href="https://github.com/Crswd38">
 <div align="center">
 <table>
 	<tr>
@@ -51,11 +52,12 @@
 	<tr>
 </table>
 </div>
+</a>
 
 
 <div align="center">
 	
-![trophy](https://github-profile-trophy.vercel.app/?username=Crswd38&theme=monokai)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Crswd38&theme=monokai)](https://github.com/Crswd38)
 </div>
 
 
