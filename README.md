@@ -41,14 +41,14 @@
 
 </div>
 <div align="center">
-	
-![trophy](https://github-profile-trophy.vercel.app/?username=Crswd38&theme=monokai)
-
-</div>
-<div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=crossward38)](https://solved.ac/profile/crossward38)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pycrswd38)](https://solved.ac/profile/pycrswd38)
+
+</div>
+<div align="center">
+	
+![trophy](https://github-profile-trophy.vercel.app/?username=Crswd38&theme=monokai)
 
 </div>
 <!--
