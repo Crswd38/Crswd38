@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Crswd38/Crswd38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -43,6 +42,7 @@ Here are some ideas to get you started:
 	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crswd38&layout=compact)
 	[![trophy](https://github-profile-trophy.vercel.app/?username=Crswd38&theme=monokai)]
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
