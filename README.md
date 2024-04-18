@@ -1,9 +1,4 @@
 ### Hi there 👋
-<!--
-**Crswd38/Crswd38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 <div align="center">
 <table>
@@ -50,7 +45,12 @@ Here are some ideas to get you started:
 ![trophy](https://github-profile-trophy.vercel.app/?username=Crswd38&theme=monokai)
 
 </div>
+<div align="center">
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=crossward38)](https://solved.ac/profile/crossward38)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pycrswd38)](https://solved.ac/profile/pycrswd38)
+
+</div>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
