@@ -5,8 +5,8 @@
 
 
 <div align="center">
-	
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crswd38&show_icons=true&theme=radical)](https://github.com/Crswd38)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crswd38&show_icons=true&theme=catppuccin_latte)](https://github.com/Crswd38)
 </div>
 
 
