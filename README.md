@@ -1,3 +1,8 @@
+
+<div align="center">
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23ADD98C&title_bg=%2351B821&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 <div align="center">
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crswd38&layout=compact)](https://github.com/Crswd38)
@@ -59,10 +64,7 @@
 	
 [![trophy](https://github-profile-trophy.vercel.app/?username=Crswd38&theme=monokai)](https://github.com/Crswd38)
 </div>
-<div align="center">
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23ADD98C&title_bg=%2351B821&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
