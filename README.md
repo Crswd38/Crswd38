@@ -4,13 +4,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCrswd38&count_bg=%23ADD98C&title_bg=%2351B821&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div align="center">
 	
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crswd38&layout=compact)](https://github.com/Crswd38)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crswd38&layout=compact)](https://github.com/Crswd38)
 </div>
 
 
 <div align="center">
 	
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crswd38)](https://github.com/Crswd38)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crswd38)](https://github.com/Crswd38)
 </div>
 
 
